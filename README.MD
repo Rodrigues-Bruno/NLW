@@ -17,5 +17,5 @@ Projeto construido no evendo Next Level Week da RocketSeat
 ## 📩 Contatos
 
 - E-mail: rodrigues25704@gmail.com 
-- GitHub: github.com/Rodrigues-Bruno
+- GitHub: github.com/brunorodriguescabral
 - Discord: rodrigues#0188
